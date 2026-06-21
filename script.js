@@ -26,6 +26,6 @@ if (contactForm && formStatus) {
   contactForm.addEventListener("submit", (event) => {
     event.preventDefault();
     contactForm.reset();
-    formStatus.textContent = "Thanks. Your message is ready to send.";
+    formStatus.textContent = "Thanks. Prakhar can be reached at goelprakhar2000@gmail.com.";
   });
 }
